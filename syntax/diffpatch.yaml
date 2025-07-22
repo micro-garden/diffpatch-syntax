@@ -1,0 +1,21 @@
+filetype: diff
+
+detect:
+    filename: "\\.diff$|\\.patch$"
+    header: "^diff\\s|^Index: "
+
+rules:
+    - comment: "^#.*"
+
+    - preproc: "^diff\\s.*"
+    - preproc: "^Index:.*"
+    - preproc: "^index .*"
+    - preproc: "^=== .*"
+    #- preproc: "^--- .*"
+    #- preproc: "^\\+\\+\\+ .*"
+
+    - identifier: "^@@.*@@.*"
+    - diff-added: "^\\+.*"
+    - diff-deleted: "^-.*"
+    - diff-modified: "^!.*"
+    - default: "^ .*"
