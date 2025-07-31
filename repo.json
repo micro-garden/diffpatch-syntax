@@ -1,6 +1,6 @@
 [{
 	"Name": "diffpatchsyntax",
-	"Description": "Provides syntax highlighting for diff and patch files in micro.",
+	"Description": "Syntax highlighting for diff and patch files.",
 	"Author": "Aki Kareha",
 	"Tags": ["syntax", "diff", "patch"],
 	"Website": "https://github.com/akikareha/micro-diffpatch-syntax",

@@ -1,7 +1,7 @@
 # diff and patch Syntax Plugin for Micro
 
-Provides syntax highlighting for `diff` and `patch` files in
-[micro](https://micro-editor.github.io/).
+Syntax highlighting for `diff` and `patch` files in
+the [micro](https://micro-editor.github.io/) text editor.
 
 This plugin enables colorized display of unified and context diffs,
 highlighting added, deleted, and modified lines for improved readability.
