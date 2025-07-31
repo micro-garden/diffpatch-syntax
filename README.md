@@ -6,6 +6,8 @@ Provides syntax highlighting for `diff` and `patch` files in
 This plugin enables colorized display of unified and context diffs,
 highlighting added, deleted, and modified lines for improved readability.
 
+See [help/diffpatchsyntax.md](help/diffpatchsyntax.md) for more details.
+
 ## Installation
 
 ### Option 1: Install as a plugin
