@@ -4,6 +4,7 @@
 	"Author": "Aki Kareha",
 	"Tags": ["syntax", "diff", "patch"],
 	"Website": "https://github.com/akikareha/micro-diffpatch-syntax",
+	"License": "MIT",
 	"Versions": [
 		{
 			"Version": "0.0.0",
