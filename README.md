@@ -22,6 +22,11 @@ git clone https://github.com/akikareha/micro-diffpatch-syntax ~/.config/micro/pl
 
 Then restart micro.
 
+Alternatively, this plugin is also available through the unofficial plugin
+channel:  
+https://github.com/akikareha/micro-unofficial-plugin-channel  
+You can install it by adding the channel and then using `plugin install`.
+
 ### Option 2: Use the syntax file only
 
 If you prefer not to install the entire plugin, you can copy the syntax file
