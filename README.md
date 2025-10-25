@@ -17,14 +17,14 @@ directly from the GitHub repository:
 
 ```sh
 mkdir -p ~/.config/micro/plug
-git clone https://github.com/akikareha/micro-diffpatch-syntax ~/.config/micro/plug/diffpatchsyntax
+git clone https://github.com/micro-garden/diffpatch-syntax ~/.config/micro/plug/diffpatchsyntax
 ```
 
 Then restart micro.
 
 Alternatively, this plugin is also available through the unofficial plugin
 channel:  
-https://github.com/akikareha/micro-unofficial-plugin-channel  
+https://github.com/micro-garden/unofficial-plugin-channel  
 You can install it by adding the channel and then using `plugin install`.
 
 ### Option 2: Use the syntax file only

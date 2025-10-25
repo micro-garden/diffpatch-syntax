@@ -3,12 +3,12 @@
 	"Description": "Syntax highlighting for diff and patch files.",
 	"Author": "Aki Kareha",
 	"Tags": ["syntax", "diff", "patch"],
-	"Website": "https://github.com/akikareha/micro-diffpatch-syntax",
+	"Website": "https://github.com/micro-garden/diffpatch-syntax",
 	"License": "MIT",
 	"Versions": [
 		{
 			"Version": "0.0.0",
-			"Url": "https://github.com/akikareha/micro-diffpatch-syntax/archive/v0.0.0.zip",
+			"Url": "https://github.com/micro-garden/diffpatch-syntax/archive/v0.0.0.zip",
 			"Require": {
 				"micro": ">=2.0.0"
 			}
